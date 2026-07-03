@@ -1,0 +1,850 @@
+{
+  "date": "2026-06-20",
+  "n": 50000,
+  "seed": 2026,
+  "fingerprint": "589b65f22b0497dcf52b1ac7e16afc6227964f7c",
+  "teams": {
+    "MEX": {
+      "group": 1.0,
+      "R32": 1.0,
+      "R16": 0.65298,
+      "QF": 0.30232,
+      "SF": 0.15372,
+      "final": 0.07258,
+      "champion": 0.0341,
+      "win_group": 1.0,
+      "second": 0.0,
+      "third": 0.0,
+      "fourth": 0.0,
+      "third_advance": 0.0
+    },
+    "KOR": {
+      "group": 1.0,
+      "R32": 0.92112,
+      "R16": 0.43122,
+      "QF": 0.16462,
+      "SF": 0.05994,
+      "final": 0.0231,
+      "champion": 0.0082,
+      "win_group": 0.0,
+      "second": 0.7774,
+      "third": 0.1839,
+      "fourth": 0.0387,
+      "third_advance": 0.14372
+    },
+    "RSA": {
+      "group": 1.0,
+      "R32": 0.22538,
+      "R16": 0.0714,
+      "QF": 0.01778,
+      "SF": 0.00386,
+      "final": 0.00114,
+      "champion": 0.0003,
+      "win_group": 0.0,
+      "second": 0.18878,
+      "third": 0.24154,
+      "fourth": 0.56968,
+      "third_advance": 0.0366
+    },
+    "CZE": {
+      "group": 1.0,
+      "R32": 0.19974,
+      "R16": 0.07428,
+      "QF": 0.02516,
+      "SF": 0.00684,
+      "final": 0.00166,
+      "champion": 0.00038,
+      "win_group": 0.0,
+      "second": 0.03382,
+      "third": 0.57456,
+      "fourth": 0.39162,
+      "third_advance": 0.16592
+    },
+    "CAN": {
+      "group": 1.0,
+      "R32": 1.0,
+      "R16": 0.50942,
+      "QF": 0.19838,
+      "SF": 0.06648,
+      "final": 0.02322,
+      "champion": 0.0078,
+      "win_group": 0.5748,
+      "second": 0.4251,
+      "third": 0.0001,
+      "fourth": 0.0,
+      "third_advance": 0.0001
+    },
+    "SUI": {
+      "group": 1.0,
+      "R32": 1.0,
+      "R16": 0.58496,
+      "QF": 0.26614,
+      "SF": 0.10898,
+      "final": 0.04654,
+      "champion": 0.01862,
+      "win_group": 0.4252,
+      "second": 0.57472,
+      "third": 8e-05,
+      "fourth": 0.0,
+      "third_advance": 8e-05
+    },
+    "QAT": {
+      "group": 1.0,
+      "R32": 0.4046,
+      "R16": 0.10912,
+      "QF": 0.03732,
+      "SF": 0.00972,
+      "final": 0.00248,
+      "champion": 0.00046,
+      "win_group": 0.0,
+      "second": 8e-05,
+      "third": 0.40788,
+      "fourth": 0.59204,
+      "third_advance": 0.40452
+    },
+    "BIH": {
+      "group": 1.0,
+      "R32": 0.30876,
+      "R16": 0.06966,
+      "QF": 0.02124,
+      "SF": 0.0045,
+      "final": 0.001,
+      "champion": 0.00024,
+      "win_group": 0.0,
+      "second": 0.0001,
+      "third": 0.59194,
+      "fourth": 0.40796,
+      "third_advance": 0.30866
+    },
+    "BRA": {
+      "group": 1.0,
+      "R32": 1.0,
+      "R16": 0.561,
+      "QF": 0.34744,
+      "SF": 0.18262,
+      "final": 0.09658,
+      "champion": 0.04896,
+      "win_group": 0.57492,
+      "second": 0.27088,
+      "third": 0.1542,
+      "fourth": 0.0,
+      "third_advance": 0.1542
+    },
+    "MAR": {
+      "group": 1.0,
+      "R32": 1.0,
+      "R16": 0.5565,
+      "QF": 0.35756,
+      "SF": 0.1816,
+      "final": 0.09738,
+      "champion": 0.04888,
+      "win_group": 0.38908,
+      "second": 0.60078,
+      "third": 0.01014,
+      "fourth": 0.0,
+      "third_advance": 0.01014
+    },
+    "SCO": {
+      "group": 1.0,
+      "R32": 0.83752,
+      "R16": 0.25382,
+      "QF": 0.07934,
+      "SF": 0.02476,
+      "final": 0.00734,
+      "champion": 0.00202,
+      "win_group": 0.036,
+      "second": 0.12834,
+      "third": 0.83566,
+      "fourth": 0.0,
+      "third_advance": 0.67318
+    },
+    "HAI": {
+      "group": 1.0,
+      "R32": 0.0,
+      "R16": 0.0,
+      "QF": 0.0,
+      "SF": 0.0,
+      "final": 0.0,
+      "champion": 0.0,
+      "win_group": 0.0,
+      "second": 0.0,
+      "third": 0.0,
+      "fourth": 1.0,
+      "third_advance": 0.0
+    },
+    "USA": {
+      "group": 1.0,
+      "R32": 1.0,
+      "R16": 0.71248,
+      "QF": 0.40886,
+      "SF": 0.19544,
+      "final": 0.09076,
+      "champion": 0.03978,
+      "win_group": 1.0,
+      "second": 0.0,
+      "third": 0.0,
+      "fourth": 0.0,
+      "third_advance": 0.0
+    },
+    "AUS": {
+      "group": 1.0,
+      "R32": 0.93832,
+      "R16": 0.43238,
+      "QF": 0.1397,
+      "SF": 0.05904,
+      "final": 0.02086,
+      "champion": 0.00696,
+      "win_group": 0.0,
+      "second": 0.70058,
+      "third": 0.29942,
+      "fourth": 0.0,
+      "third_advance": 0.23774
+    },
+    "PAR": {
+      "group": 1.0,
+      "R32": 0.79284,
+      "R16": 0.27428,
+      "QF": 0.07926,
+      "SF": 0.02904,
+      "final": 0.0089,
+      "champion": 0.0025,
+      "win_group": 0.0,
+      "second": 0.29942,
+      "third": 0.70058,
+      "fourth": 0.0,
+      "third_advance": 0.49342
+    },
+    "TUR": {
+      "group": 1.0,
+      "R32": 0.0,
+      "R16": 0.0,
+      "QF": 0.0,
+      "SF": 0.0,
+      "final": 0.0,
+      "champion": 0.0,
+      "win_group": 0.0,
+      "second": 0.0,
+      "third": 0.0,
+      "fourth": 1.0,
+      "third_advance": 0.0
+    },
+    "GER": {
+      "group": 1.0,
+      "R32": 1.0,
+      "R16": 0.68306,
+      "QF": 0.33842,
+      "SF": 0.1884,
+      "final": 0.10076,
+      "champion": 0.04822,
+      "win_group": 1.0,
+      "second": 0.0,
+      "third": 0.0,
+      "fourth": 0.0,
+      "third_advance": 0.0
+    },
+    "ECU": {
+      "group": 1.0,
+      "R32": 0.22078,
+      "R16": 0.08452,
+      "QF": 0.03302,
+      "SF": 0.0115,
+      "final": 0.00382,
+      "champion": 0.00148,
+      "win_group": 0.0,
+      "second": 0.03466,
+      "third": 0.6977,
+      "fourth": 0.26764,
+      "third_advance": 0.18612
+    },
+    "CIV": {
+      "group": 1.0,
+      "R32": 0.93524,
+      "R16": 0.37358,
+      "QF": 0.12736,
+      "SF": 0.04148,
+      "final": 0.01414,
+      "champion": 0.00478,
+      "win_group": 0.0,
+      "second": 0.8261,
+      "third": 0.13922,
+      "fourth": 0.03468,
+      "third_advance": 0.10914
+    },
+    "CUW": {
+      "group": 1.0,
+      "R32": 0.17328,
+      "R16": 0.03544,
+      "QF": 0.00606,
+      "SF": 0.001,
+      "final": 0.00016,
+      "champion": 6e-05,
+      "win_group": 0.0,
+      "second": 0.13924,
+      "third": 0.16308,
+      "fourth": 0.69768,
+      "third_advance": 0.03404
+    },
+    "NED": {
+      "group": 1.0,
+      "R32": 1.0,
+      "R16": 0.51312,
+      "QF": 0.32588,
+      "SF": 0.1636,
+      "final": 0.08638,
+      "champion": 0.04288,
+      "win_group": 0.5987,
+      "second": 0.39326,
+      "third": 0.00804,
+      "fourth": 0.0,
+      "third_advance": 0.00804
+    },
+    "JPN": {
+      "group": 1.0,
+      "R32": 1.0,
+      "R16": 0.42718,
+      "QF": 0.23236,
+      "SF": 0.10204,
+      "final": 0.04634,
+      "champion": 0.01894,
+      "win_group": 0.31734,
+      "second": 0.46014,
+      "third": 0.22252,
+      "fourth": 0.0,
+      "third_advance": 0.22252
+    },
+    "SWE": {
+      "group": 1.0,
+      "R32": 0.93166,
+      "R16": 0.24916,
+      "QF": 0.09134,
+      "SF": 0.03146,
+      "final": 0.01012,
+      "champion": 0.0029,
+      "win_group": 0.08396,
+      "second": 0.1466,
+      "third": 0.76944,
+      "fourth": 0.0,
+      "third_advance": 0.7011
+    },
+    "TUN": {
+      "group": 1.0,
+      "R32": 0.0,
+      "R16": 0.0,
+      "QF": 0.0,
+      "SF": 0.0,
+      "final": 0.0,
+      "champion": 0.0,
+      "win_group": 0.0,
+      "second": 0.0,
+      "third": 0.0,
+      "fourth": 1.0,
+      "third_advance": 0.0
+    },
+    "BEL": {
+      "group": 1.0,
+      "R32": 0.90764,
+      "R16": 0.59126,
+      "QF": 0.31822,
+      "SF": 0.16366,
+      "final": 0.07888,
+      "champion": 0.0369,
+      "win_group": 0.49076,
+      "second": 0.25976,
+      "third": 0.1837,
+      "fourth": 0.06578,
+      "third_advance": 0.15712
+    },
+    "EGY": {
+      "group": 1.0,
+      "R32": 0.7994,
+      "R16": 0.39588,
+      "QF": 0.1517,
+      "SF": 0.05586,
+      "final": 0.0196,
+      "champion": 0.00696,
+      "win_group": 0.25526,
+      "second": 0.29278,
+      "third": 0.30362,
+      "fourth": 0.14834,
+      "third_advance": 0.25136
+    },
+    "IRN": {
+      "group": 1.0,
+      "R32": 0.63318,
+      "R16": 0.33796,
+      "QF": 0.13448,
+      "SF": 0.05508,
+      "final": 0.02028,
+      "champion": 0.00684,
+      "win_group": 0.20834,
+      "second": 0.32068,
+      "third": 0.2927,
+      "fourth": 0.17828,
+      "third_advance": 0.10416
+    },
+    "NZL": {
+      "group": 1.0,
+      "R32": 0.27628,
+      "R16": 0.07022,
+      "QF": 0.01316,
+      "SF": 0.00214,
+      "final": 0.0002,
+      "champion": 6e-05,
+      "win_group": 0.04564,
+      "second": 0.12678,
+      "third": 0.21998,
+      "fourth": 0.6076,
+      "third_advance": 0.10386
+    },
+    "ESP": {
+      "group": 1.0,
+      "R32": 0.91592,
+      "R16": 0.57834,
+      "QF": 0.38912,
+      "SF": 0.26236,
+      "final": 0.15292,
+      "champion": 0.08816,
+      "win_group": 0.57202,
+      "second": 0.2575,
+      "third": 0.12102,
+      "fourth": 0.04946,
+      "third_advance": 0.0864
+    },
+    "CPV": {
+      "group": 1.0,
+      "R32": 0.4925,
+      "R16": 0.10922,
+      "QF": 0.02978,
+      "SF": 0.00716,
+      "final": 0.00146,
+      "champion": 0.00028,
+      "win_group": 0.07852,
+      "second": 0.17156,
+      "third": 0.32756,
+      "fourth": 0.42236,
+      "third_advance": 0.24242
+    },
+    "SAU": {
+      "group": 1.0,
+      "R32": 0.50806,
+      "R16": 0.1263,
+      "QF": 0.03836,
+      "SF": 0.01134,
+      "final": 0.00246,
+      "champion": 0.00046,
+      "win_group": 0.09044,
+      "second": 0.21092,
+      "third": 0.3177,
+      "fourth": 0.38094,
+      "third_advance": 0.2067
+    },
+    "URU": {
+      "group": 1.0,
+      "R32": 0.75202,
+      "R16": 0.32082,
+      "QF": 0.16698,
+      "SF": 0.08372,
+      "final": 0.03532,
+      "champion": 0.01448,
+      "win_group": 0.25902,
+      "second": 0.36002,
+      "third": 0.23372,
+      "fourth": 0.14724,
+      "third_advance": 0.13298
+    },
+    "FRA": {
+      "group": 1.0,
+      "R32": 0.99366,
+      "R16": 0.7651,
+      "QF": 0.50366,
+      "SF": 0.33106,
+      "final": 0.21194,
+      "champion": 0.13068,
+      "win_group": 0.78602,
+      "second": 0.18514,
+      "third": 0.02286,
+      "fourth": 0.00598,
+      "third_advance": 0.0225
+    },
+    "SEN": {
+      "group": 1.0,
+      "R32": 0.68746,
+      "R16": 0.37516,
+      "QF": 0.176,
+      "SF": 0.0765,
+      "final": 0.03366,
+      "champion": 0.01376,
+      "win_group": 0.02916,
+      "second": 0.33588,
+      "third": 0.46542,
+      "fourth": 0.16954,
+      "third_advance": 0.32242
+    },
+    "IRQ": {
+      "group": 1.0,
+      "R32": 0.12254,
+      "R16": 0.03462,
+      "QF": 0.0111,
+      "SF": 0.00288,
+      "final": 0.00068,
+      "champion": 8e-05,
+      "win_group": 0.00946,
+      "second": 0.01712,
+      "third": 0.16648,
+      "fourth": 0.80694,
+      "third_advance": 0.09596
+    },
+    "NOR": {
+      "group": 1.0,
+      "R32": 0.95642,
+      "R16": 0.46898,
+      "QF": 0.18034,
+      "SF": 0.0656,
+      "final": 0.02472,
+      "champion": 0.0081,
+      "win_group": 0.17536,
+      "second": 0.46186,
+      "third": 0.34524,
+      "fourth": 0.01754,
+      "third_advance": 0.3192
+    },
+    "ARG": {
+      "group": 1.0,
+      "R32": 0.9959,
+      "R16": 0.70034,
+      "QF": 0.51698,
+      "SF": 0.36154,
+      "final": 0.22576,
+      "champion": 0.14056,
+      "win_group": 0.80412,
+      "second": 0.17798,
+      "third": 0.014,
+      "fourth": 0.0039,
+      "third_advance": 0.0138
+    },
+    "ALG": {
+      "group": 1.0,
+      "R32": 0.54836,
+      "R16": 0.2194,
+      "QF": 0.09202,
+      "SF": 0.03526,
+      "final": 0.01192,
+      "champion": 0.00392,
+      "win_group": 0.01408,
+      "second": 0.2345,
+      "third": 0.47874,
+      "fourth": 0.27268,
+      "third_advance": 0.29978
+    },
+    "AUT": {
+      "group": 1.0,
+      "R32": 0.95352,
+      "R16": 0.41612,
+      "QF": 0.19742,
+      "SF": 0.08884,
+      "final": 0.03316,
+      "champion": 0.0121,
+      "win_group": 0.17524,
+      "second": 0.566,
+      "third": 0.24412,
+      "fourth": 0.01464,
+      "third_advance": 0.21228
+    },
+    "JOR": {
+      "group": 1.0,
+      "R32": 0.15748,
+      "R16": 0.04234,
+      "QF": 0.01116,
+      "SF": 0.00254,
+      "final": 0.00044,
+      "champion": 0.00012,
+      "win_group": 0.00656,
+      "second": 0.02152,
+      "third": 0.26314,
+      "fourth": 0.70878,
+      "third_advance": 0.1294
+    },
+    "POR": {
+      "group": 1.0,
+      "R32": 0.8469,
+      "R16": 0.52478,
+      "QF": 0.3017,
+      "SF": 0.16496,
+      "final": 0.08448,
+      "champion": 0.0414,
+      "win_group": 0.30274,
+      "second": 0.38846,
+      "third": 0.22362,
+      "fourth": 0.08518,
+      "third_advance": 0.1557
+    },
+    "COD": {
+      "group": 1.0,
+      "R32": 0.58976,
+      "R16": 0.20084,
+      "QF": 0.06604,
+      "SF": 0.02156,
+      "final": 0.0061,
+      "champion": 0.00184,
+      "win_group": 0.0939,
+      "second": 0.2431,
+      "third": 0.38204,
+      "fourth": 0.28096,
+      "third_advance": 0.25276
+    },
+    "UZB": {
+      "group": 1.0,
+      "R32": 0.3018,
+      "R16": 0.08386,
+      "QF": 0.02426,
+      "SF": 0.00736,
+      "final": 0.00186,
+      "champion": 0.00034,
+      "win_group": 0.01528,
+      "second": 0.11642,
+      "third": 0.2465,
+      "fourth": 0.6218,
+      "third_advance": 0.1701
+    },
+    "COL": {
+      "group": 1.0,
+      "R32": 0.97984,
+      "R16": 0.59662,
+      "QF": 0.33564,
+      "SF": 0.16406,
+      "final": 0.07506,
+      "champion": 0.03372,
+      "win_group": 0.58808,
+      "second": 0.25202,
+      "third": 0.14784,
+      "fourth": 0.01206,
+      "third_advance": 0.13974
+    },
+    "ENG": {
+      "group": 1.0,
+      "R32": 0.99314,
+      "R16": 0.71078,
+      "QF": 0.45928,
+      "SF": 0.2859,
+      "final": 0.1711,
+      "champion": 0.09902,
+      "win_group": 0.87972,
+      "second": 0.09746,
+      "third": 0.01628,
+      "fourth": 0.00654,
+      "third_advance": 0.01596
+    },
+    "CRO": {
+      "group": 1.0,
+      "R32": 0.7645,
+      "R16": 0.4081,
+      "QF": 0.2038,
+      "SF": 0.10536,
+      "final": 0.048,
+      "champion": 0.02088,
+      "win_group": 0.03376,
+      "second": 0.561,
+      "third": 0.2371,
+      "fourth": 0.16814,
+      "third_advance": 0.16974
+    },
+    "GHA": {
+      "group": 1.0,
+      "R32": 0.71394,
+      "R16": 0.18466,
+      "QF": 0.05052,
+      "SF": 0.0103,
+      "final": 0.00228,
+      "champion": 0.00034,
+      "win_group": 0.06414,
+      "second": 0.2777,
+      "third": 0.55596,
+      "fourth": 0.1022,
+      "third_advance": 0.3721
+    },
+    "PAN": {
+      "group": 1.0,
+      "R32": 0.22054,
+      "R16": 0.07874,
+      "QF": 0.02872,
+      "SF": 0.00894,
+      "final": 0.00246,
+      "champion": 0.00054,
+      "win_group": 0.02238,
+      "second": 0.06384,
+      "third": 0.19066,
+      "fourth": 0.72312,
+      "third_advance": 0.13432
+    }
+  },
+  "third_cutoff": {
+    "points": {
+      "1": 0.0002,
+      "2": 0.1162,
+      "3": 0.8493,
+      "4": 0.0343
+    },
+    "detail": [
+      {
+        "points": 3,
+        "gd": -2,
+        "prob": 0.22928
+      },
+      {
+        "points": 3,
+        "gd": -3,
+        "prob": 0.21786
+      },
+      {
+        "points": 3,
+        "gd": -1,
+        "prob": 0.171
+      },
+      {
+        "points": 3,
+        "gd": -4,
+        "prob": 0.11004
+      },
+      {
+        "points": 2,
+        "gd": -1,
+        "prob": 0.09168
+      },
+      {
+        "points": 3,
+        "gd": -5,
+        "prob": 0.04622
+      },
+      {
+        "points": 3,
+        "gd": 0,
+        "prob": 0.03996
+      },
+      {
+        "points": 2,
+        "gd": -2,
+        "prob": 0.02026
+      },
+      {
+        "points": 3,
+        "gd": -6,
+        "prob": 0.01862
+      },
+      {
+        "points": 4,
+        "gd": -2,
+        "prob": 0.0135
+      },
+      {
+        "points": 4,
+        "gd": -5,
+        "prob": 0.00876
+      },
+      {
+        "points": 3,
+        "gd": -7,
+        "prob": 0.00738
+      },
+      {
+        "points": 4,
+        "gd": -4,
+        "prob": 0.00494
+      },
+      {
+        "points": 2,
+        "gd": -3,
+        "prob": 0.00414
+      },
+      {
+        "points": 4,
+        "gd": -3,
+        "prob": 0.00388
+      },
+      {
+        "points": 3,
+        "gd": 1,
+        "prob": 0.0035
+      },
+      {
+        "points": 3,
+        "gd": -8,
+        "prob": 0.0029
+      },
+      {
+        "points": 4,
+        "gd": -1,
+        "prob": 0.0026
+      },
+      {
+        "points": 3,
+        "gd": -9,
+        "prob": 0.0011
+      },
+      {
+        "points": 3,
+        "gd": 2,
+        "prob": 0.00058
+      },
+      {
+        "points": 4,
+        "gd": 0,
+        "prob": 0.00042
+      },
+      {
+        "points": 3,
+        "gd": -10,
+        "prob": 0.00042
+      },
+      {
+        "points": 3,
+        "gd": -11,
+        "prob": 0.0002
+      },
+      {
+        "points": 4,
+        "gd": -6,
+        "prob": 0.00018
+      },
+      {
+        "points": 3,
+        "gd": 3,
+        "prob": 0.00018
+      },
+      {
+        "points": 1,
+        "gd": -2,
+        "prob": 0.00016
+      },
+      {
+        "points": 2,
+        "gd": -4,
+        "prob": 8e-05
+      },
+      {
+        "points": 3,
+        "gd": 4,
+        "prob": 4e-05
+      },
+      {
+        "points": 2,
+        "gd": -5,
+        "prob": 4e-05
+      },
+      {
+        "points": 1,
+        "gd": -3,
+        "prob": 4e-05
+      },
+      {
+        "points": 3,
+        "gd": -12,
+        "prob": 2e-05
+      },
+      {
+        "points": 4,
+        "gd": -7,
+        "prob": 2e-05
+      }
+    ]
+  }
+}

@@ -1,0 +1,398 @@
+{
+  "model": {
+    "base_goals": 1.35,
+    "rating_div": 750.0,
+    "home_adv": 0,
+    "fifa_div": 600,
+    "dc_rho": -0.13,
+    "pen_skill": 0.25,
+    "imp_group": 50,
+    "imp_knockout": 60
+  },
+  "teams": [
+    {
+      "team": "ARG",
+      "name": "Argentina",
+      "group": "J",
+      "fifa_rank": 1,
+      "fifa_points": 1877.27,
+      "host": false
+    },
+    {
+      "team": "ESP",
+      "name": "Spain",
+      "group": "H",
+      "fifa_rank": 2,
+      "fifa_points": 1874.71,
+      "host": false
+    },
+    {
+      "team": "FRA",
+      "name": "France",
+      "group": "I",
+      "fifa_rank": 3,
+      "fifa_points": 1870.7,
+      "host": false
+    },
+    {
+      "team": "ENG",
+      "name": "England",
+      "group": "L",
+      "fifa_rank": 4,
+      "fifa_points": 1828.02,
+      "host": false
+    },
+    {
+      "team": "POR",
+      "name": "Portugal",
+      "group": "K",
+      "fifa_rank": 5,
+      "fifa_points": 1767.85,
+      "host": false
+    },
+    {
+      "team": "BRA",
+      "name": "Brazil",
+      "group": "C",
+      "fifa_rank": 6,
+      "fifa_points": 1765.86,
+      "host": false
+    },
+    {
+      "team": "MAR",
+      "name": "Morocco",
+      "group": "C",
+      "fifa_rank": 7,
+      "fifa_points": 1755.1,
+      "host": false
+    },
+    {
+      "team": "NED",
+      "name": "Netherlands",
+      "group": "F",
+      "fifa_rank": 8,
+      "fifa_points": 1753.57,
+      "host": false
+    },
+    {
+      "team": "BEL",
+      "name": "Belgium",
+      "group": "G",
+      "fifa_rank": 9,
+      "fifa_points": 1742.24,
+      "host": false
+    },
+    {
+      "team": "GER",
+      "name": "Germany",
+      "group": "E",
+      "fifa_rank": 10,
+      "fifa_points": 1735.77,
+      "host": false
+    },
+    {
+      "team": "CRO",
+      "name": "Croatia",
+      "group": "L",
+      "fifa_rank": 11,
+      "fifa_points": 1714.87,
+      "host": false
+    },
+    {
+      "team": "COL",
+      "name": "Colombia",
+      "group": "K",
+      "fifa_rank": 13,
+      "fifa_points": 1698.35,
+      "host": false
+    },
+    {
+      "team": "MEX",
+      "name": "Mexico",
+      "group": "A",
+      "fifa_rank": 14,
+      "fifa_points": 1687.48,
+      "host": true
+    },
+    {
+      "team": "SEN",
+      "name": "Senegal",
+      "group": "I",
+      "fifa_rank": 15,
+      "fifa_points": 1684.07,
+      "host": false
+    },
+    {
+      "team": "URU",
+      "name": "Uruguay",
+      "group": "H",
+      "fifa_rank": 16,
+      "fifa_points": 1673.07,
+      "host": false
+    },
+    {
+      "team": "USA",
+      "name": "United States",
+      "group": "D",
+      "fifa_rank": 17,
+      "fifa_points": 1671.23,
+      "host": true
+    },
+    {
+      "team": "JPN",
+      "name": "Japan",
+      "group": "F",
+      "fifa_rank": 18,
+      "fifa_points": 1661.58,
+      "host": false
+    },
+    {
+      "team": "SUI",
+      "name": "Switzerland",
+      "group": "B",
+      "fifa_rank": 19,
+      "fifa_points": 1650.06,
+      "host": false
+    },
+    {
+      "team": "IRN",
+      "name": "Iran",
+      "group": "G",
+      "fifa_rank": 20,
+      "fifa_points": 1619.58,
+      "host": false
+    },
+    {
+      "team": "TUR",
+      "name": "Türkiye",
+      "group": "D",
+      "fifa_rank": 22,
+      "fifa_points": 1605.73,
+      "host": false
+    },
+    {
+      "team": "ECU",
+      "name": "Ecuador",
+      "group": "E",
+      "fifa_rank": 23,
+      "fifa_points": 1598.52,
+      "host": false
+    },
+    {
+      "team": "AUT",
+      "name": "Austria",
+      "group": "J",
+      "fifa_rank": 24,
+      "fifa_points": 1597.4,
+      "host": false
+    },
+    {
+      "team": "KOR",
+      "name": "South Korea",
+      "group": "A",
+      "fifa_rank": 25,
+      "fifa_points": 1591.63,
+      "host": false
+    },
+    {
+      "team": "AUS",
+      "name": "Australia",
+      "group": "D",
+      "fifa_rank": 27,
+      "fifa_points": 1579.34,
+      "host": false
+    },
+    {
+      "team": "ALG",
+      "name": "Algeria",
+      "group": "J",
+      "fifa_rank": 28,
+      "fifa_points": 1571.03,
+      "host": false
+    },
+    {
+      "team": "EGY",
+      "name": "Egypt",
+      "group": "G",
+      "fifa_rank": 29,
+      "fifa_points": 1562.37,
+      "host": false
+    },
+    {
+      "team": "CAN",
+      "name": "Canada",
+      "group": "B",
+      "fifa_rank": 30,
+      "fifa_points": 1559.48,
+      "host": true
+    },
+    {
+      "team": "NOR",
+      "name": "Norway",
+      "group": "I",
+      "fifa_rank": 31,
+      "fifa_points": 1557.44,
+      "host": false
+    },
+    {
+      "team": "CIV",
+      "name": "Ivory Coast",
+      "group": "E",
+      "fifa_rank": 33,
+      "fifa_points": 1540.87,
+      "host": false
+    },
+    {
+      "team": "PAN",
+      "name": "Panama",
+      "group": "L",
+      "fifa_rank": 34,
+      "fifa_points": 1539.16,
+      "host": false
+    },
+    {
+      "team": "SWE",
+      "name": "Sweden",
+      "group": "F",
+      "fifa_rank": 38,
+      "fifa_points": 1509.79,
+      "host": false
+    },
+    {
+      "team": "CZE",
+      "name": "Czechia",
+      "group": "A",
+      "fifa_rank": 40,
+      "fifa_points": 1505.74,
+      "host": false
+    },
+    {
+      "team": "PAR",
+      "name": "Paraguay",
+      "group": "D",
+      "fifa_rank": 41,
+      "fifa_points": 1505.35,
+      "host": false
+    },
+    {
+      "team": "SCO",
+      "name": "Scotland",
+      "group": "C",
+      "fifa_rank": 42,
+      "fifa_points": 1503.34,
+      "host": false
+    },
+    {
+      "team": "TUN",
+      "name": "Tunisia",
+      "group": "F",
+      "fifa_rank": 45,
+      "fifa_points": 1476.41,
+      "host": false
+    },
+    {
+      "team": "COD",
+      "name": "DR Congo",
+      "group": "K",
+      "fifa_rank": 46,
+      "fifa_points": 1474.43,
+      "host": false
+    },
+    {
+      "team": "UZB",
+      "name": "Uzbekistan",
+      "group": "K",
+      "fifa_rank": 50,
+      "fifa_points": 1458.73,
+      "host": false
+    },
+    {
+      "team": "QAT",
+      "name": "Qatar",
+      "group": "B",
+      "fifa_rank": 56,
+      "fifa_points": 1450.31,
+      "host": false
+    },
+    {
+      "team": "IRQ",
+      "name": "Iraq",
+      "group": "I",
+      "fifa_rank": 57,
+      "fifa_points": 1446.28,
+      "host": false
+    },
+    {
+      "team": "RSA",
+      "name": "South Africa",
+      "group": "A",
+      "fifa_rank": 60,
+      "fifa_points": 1428.38,
+      "host": false
+    },
+    {
+      "team": "SAU",
+      "name": "Saudi Arabia",
+      "group": "H",
+      "fifa_rank": 61,
+      "fifa_points": 1423.88,
+      "host": false
+    },
+    {
+      "team": "JOR",
+      "name": "Jordan",
+      "group": "J",
+      "fifa_rank": 63,
+      "fifa_points": 1387.74,
+      "host": false
+    },
+    {
+      "team": "BIH",
+      "name": "Bosnia and Herzegovina",
+      "group": "B",
+      "fifa_rank": 64,
+      "fifa_points": 1387.22,
+      "host": false
+    },
+    {
+      "team": "CPV",
+      "name": "Cape Verde",
+      "group": "H",
+      "fifa_rank": 67,
+      "fifa_points": 1371.11,
+      "host": false
+    },
+    {
+      "team": "GHA",
+      "name": "Ghana",
+      "group": "L",
+      "fifa_rank": 73,
+      "fifa_points": 1346.88,
+      "host": false
+    },
+    {
+      "team": "CUW",
+      "name": "Curaçao",
+      "group": "E",
+      "fifa_rank": 82,
+      "fifa_points": 1294.77,
+      "host": false
+    },
+    {
+      "team": "HAI",
+      "name": "Haiti",
+      "group": "C",
+      "fifa_rank": 83,
+      "fifa_points": 1293.1,
+      "host": false
+    },
+    {
+      "team": "NZL",
+      "name": "New Zealand",
+      "group": "G",
+      "fifa_rank": 85,
+      "fifa_points": 1275.58,
+      "host": false
+    }
+  ]
+}
